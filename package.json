@@ -1,13 +1,13 @@
 {
   "main": "./lib/keytar.js",
   "typings": "keytar.d.ts",
-  "name": "keytar",
+  "name": "keytar-enterprise",
   "description": "Bindings to native Mac/Linux/Windows password APIs",
   "version": "4.4.1",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/atom/node-keytar.git"
+    "url": "https://github.com/bkostjens/node-keytar.git"
   },
   "bugs": {
     "url": "https://github.com/atom/node-keytar/issues"
